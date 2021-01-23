@@ -1,1 +1,1 @@
-# stalkurstock-backend
+# stalkurstock-db-seeder
