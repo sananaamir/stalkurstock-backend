@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.stalkurstock</groupId>
-	<artifactId>stalkurstock</artifactId>
+	<artifactId>stalkurstock-db-seeder</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>stalkurstock</name>
-	<description>StalkUrStock Backend</description>
+	<name>stalkurstock-db-seeder</name>
+	<description>StalkUrStock DB Seeder</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
